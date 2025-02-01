@@ -1,6 +1,5 @@
 import logging
 import os
-from src.components.exception import CustomException
 from datetime import datetime
 import sys
 
